@@ -1,7 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c83eafa-6c93-4ac9-a642-d5d976e6f6ff" name="Default" comment="" />
+    <list default="true" id="2c83eafa-6c93-4ac9-a642-d5d976e6f6ff" name="Default" comment="这是目前做的前端页面&#10;首页是用纯js完成的&#10;目的地页面为createJS＋Jquery完成的&#10;目的地页面中包含Jquery的自定义组件&#10;剩下的继续">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Log_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Logo_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/SEtxtMain_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/SEtxtRight_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/anhui.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/aomen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/beijing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/chongqing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gg/images/dujins_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/fujian.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/gansu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/guangdong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/guangxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/guizhou.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/hainan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/hebei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/heilongjiang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/henan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/hubei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/hunan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/inpoyleft_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/jiangsu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/jiangxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/jilin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/kuansuxuanze_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/liaoning.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/mywebmap.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/neimenggu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/ningxia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/picleftjiant_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/picrightjiant_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/point1_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/point2_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/qinghai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gg/images/quanjude_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/shaanxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/shandong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/shanghai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/shanxi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/sichuan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/taiwan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/tianjin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/xianggang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/xinjiang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/xizang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/yunnan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/smalpic/zhejiang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gg/images/zongzi_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/images/圖層51拷貝6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ListMean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/PicMove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/dis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/dis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/easeljs-0.8.1.combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/easeljs-0.8.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getDataForXingzheng.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getDatazuobiao.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/getdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/xingzhengmain/getjingdianpic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/indexmain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/indexmain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/indexmain/indexmainhot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSSrc/jsmapmain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mainnav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/movieclip-0.8.1.combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/movieclip-0.8.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mudidi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mudidiindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mudidiindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mudidimain/mudidimain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/mywebmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSSrc/mywebmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/piczhuan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/piczhuan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/piczhuan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/preloadjs-0.6.1.combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/preloadjs-0.6.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/xingzhengmain/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testjson.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/tweenjs-0.6.1.combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mywebmap/JSLib/tweenjs-0.6.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/xingzhengindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xingzhengindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/xingzhengmain/xingzhengmain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/indexmain/zhoubian.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/asas.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TravelWeb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +135,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="asas.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/asas.html">
+      <file leaf-file-name="mainnav.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mainnav.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2284264">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xingzhengindex.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xingzhengindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6332454">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -111,6 +235,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -122,6 +260,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -184,10 +327,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="7" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32970452" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -212,17 +355,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是测试用的" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是测试用的" />
+    <MESSAGE value="这是目前做的前端页面&#10;首页是用纯js完成的&#10;目的地页面为createJS＋Jquery完成的&#10;目的地页面中包含Jquery的自定义组件&#10;剩下的继续" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是目前做的前端页面&#10;首页是用纯js完成的&#10;目的地页面为createJS＋Jquery完成的&#10;目的地页面中包含Jquery的自定义组件&#10;剩下的继续" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/asas.html">
+    <entry file="file://$PROJECT_DIR$/css/mainnav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2284264">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingzhengindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6332454">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>

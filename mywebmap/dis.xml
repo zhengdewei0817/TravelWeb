@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+    <china>
+                    <record name="广东" id=""  url="/guangdong/" englishName="Guangdong" imgurl="http://hiphotos.baidu.com/baidu/pic/item/8601a18b87d6277f548c4bfc28381f30e824fc5c.jpg">
+                                                            <place name="珠海" url="/zhuhai/"/>
+                                                                                <place name="深圳" url="/shenzhen/"/>
+                                                                                <place name="广州" url="/guangzhou/"/>
+                                                                                <place name="丹霞山" url="/danxiashan/"/>
+                                                                                <place name="肇庆" url="/zhaoqing/"/>
+                                                                                <place name="韶关" url="/shaoguan/"/>
+                                                                                <place name="清远" url="/qingyuan/"/>
+                                                                                <place name="南澳岛" url="/nanaodao/"/>
+                                                                                <place name="佛山" url="/foshan/"/>
+                                                                                <place name="惠州" url="/guangdonghuizhou/"/>
+                                                                                <place name="从化" url="/conghua/"/>
+                                                                                <place name="下川岛" url="/xiachuandao/"/>
+                                                                                <place name="东莞" url="/dongguan/"/>
+                                                                                <place name="上川岛" url="/shangchuandao/"/>
+                                                                                <place name="湛江" url="/zhanjiang/"/>
+                                                                                                                                                                                                                                    </record>
+                    <record name="江苏" id=""  url="/jiangsu/" englishName="Jiangsu" imgurl="http://hiphotos.baidu.com/baidu/pic/item/d52a2834349b033b52b5851e15ce36d3d539bd30.jpg">
+                                                            <place name="扬州" url="/yangzhou/"/>
+                                                                                <place name="苏州" url="/suzhou/"/>
+                                                                                <place name="南京" url="/nanjing/"/>
+                                                                                <place name="无锡" url="/wuxi/"/>
+                                                                                <place name="天目湖" url="/tianmuhu/"/>
+                                                                                <place name="连云港" url="/lianyungang/"/>
+                                                                                <place name="周庄" url="/zhouzhuang/"/>
+                                                                                <place name="常州" url="/changzhou/"/>
+                                                                                <place name="镇江" url="/zhenjiang/"/>
+                                                                                <place name="徐州" url="/xuzhou/"/>
+                                                                                <place name="同里" url="/tongli/"/>
+                                                                                <place name="南通" url="/nantong/"/>
+                                                                                <place name="昆山" url="/kunshan/"/>
+                                                                                <place name="宜兴" url="/yixing/"/>
+                                                                                <place name="常熟" url="/changshu/"/>
+                                                                                                                                                                                                                                    </record>
+                    <record name="山东" id=""  url="/shandong/" englishName="Shandong" imgurl="http://hiphotos.baidu.com/baidu/pic/item/1b4c510fd9f9d72a65936fd9d42a2834359bbb7a.jpg">
+                                                            <place name="青岛" url="/qingdao/"/>
+                                                                                <place name="泰山" url="/taishan/"/>
+                                                                                <place name="日照" url="/rizhao/"/>
+                                                                                <place name="济南" url="/jinan/"/>
+                                                                                <place name="微山湖" url="/weishanhu/"/>
+                                                                                <place name="威海" url="/weihai/"/>
+                                                                                <place name="烟台" url="/yantai/"/>
+                                                                                <place name="长岛" url="/changdao/"/>
+                                                                                <place name="蓬莱" url="/penglai/"/>
+                                                                                <place name="台儿庄" url="/taierzhuang/"/>
+                                                                                <place name="曲阜" url="/qufu/"/>
+                                                                                <place name="临沂" url="/linyi/"/>
+                                                                                <place name="淄博" url="/zibo/"/>
+                                                                                <place name="潍坊" url="/weifang/"/>
+                                                                                <place name="枣庄" url="/zaozhuang/"/>
+                                                                                                                                                                                                                                    </record>
+                    <record name="浙江" id=""  url="/zhejiang/" englishName="Zhejiang" imgurl="http://hiphotos.baidu.com/baidu/pic/item/94cad1c8a786c917104f2bfdc93d70cf3ac757a1.jpg">
+                                                            <place name="杭州" url="/hangzhou/"/>
+                                                                                <place name="乌镇" url="/wuzhen/"/>
+                                                                                <place name="千岛湖" url="/qiandaohu/"/>
+                                                                                <place name="西塘" url="/xitang/"/>
+                                                                                <place name="普陀山" url="/putuoshan/"/>
+                                                                                <place name="绍兴" url="/shaoxing/"/>
+                                                                                <place name="舟山" url="/zhoushan/"/>
+                                                                                <place name="雁荡山" url="/yandangshan/"/>
+                                                                                <place name="宁波" url="/ningbo/"/>
+                                                                                <place name="横店" url="/hengdian/"/>
+                                                                                <place name="安吉" url="/anji/"/>
+                                                                                <place name="温州" url="/wenzhou/"/>
+                                                                                <place name="嘉兴" url="/jiaxing/"/>
+                                                                                <place name="象山" url="/ningboxiangshan/"/>
+                                                                                <place name="临安" url="/linan/"/>
+                                                                                                                                                                                                                                    </record>
+                    <record name="上海" id=""  url="/shanghai/" englishName="Shanghai" imgurl="http://hiphotos.baidu.com/baidu/pic/item/902397dda144ad347ef3f443d0a20cf430ad85a1.jpg">
+                                                            <place name="老城隍庙" url="/laochenghuangmiao/"/>
+                                                                                <place name="南京路" url="/nanjinglu/"/>
+                                                                                <place name="外滩" url="/waitan/"/>
+                                                                                <place name="田子坊" url="/tianzifang/"/>
+                                                                                <place name="杜莎夫人蜡像馆" url="/shanghaidushafurenlaxiangguan/"/>
+                                                                                <place name="东方明珠" url="/dongfangmingzhu/"/>
+                                                                                <place name="崇明岛" url="/chongmingdao/"/>
+                                                                                <place name="徐家汇天主教堂" url="/xujiahuitianzhujiaotang/"/>
+                                                                                <place name="金茂大厦" url="/jinmaodasha/"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="河南" id=""  url="/henan/" englishName="He'nan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/fc1f4134970a304e4982df3ed1c8a786c8175c55.jpg">
+                                                            <place name="云台山" url="/yuntaishan/"/>
+                                                                                <place name="洛阳" url="/luoyang/"/>
+                                                                                <place name="开封" url="/kaifeng/"/>
+                                                                                <place name="郑州" url="/zhengzhou/"/>
+                                                                                <place name="栾川" url="/luanchuan/"/>
+                                                                                <place name="少林寺" url="/shaolinsi/"/>
+                                                                                <place name="红旗渠" url="/hongqiqu/"/>
+                                                                                <place name="南阳" url="/nanyang/"/>
+                                                                                <place name="安阳" url="/anyang/"/>
+                                                                                <place name="焦作" url="/jiaozuo/"/>
+                                                                                <place name="嵩山" url="/songshan/"/>
+                                                                                <place name="三门峡" url="/sanmenxia/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="河北" id=""  url="/hebei/" englishName="Hebei" imgurl="http://hiphotos.baidu.com/baidu/pic/item/10dfa9ec8a1363278396bdf7918fa0ec09fac7ff.jpg">
+                                                            <place name="北戴河" url="/beidaihe/"/>
+                                                                                <place name="秦皇岛" url="/qinhuangdao/"/>
+                                                                                <place name="野三坡" url="/yesanpo/"/>
+                                                                                <place name="白洋淀" url="/baiyangdian/"/>
+                                                                                <place name="承德" url="/chengde/"/>
+                                                                                <place name="丰宁坝上" url="/fengningbashang/"/>
+                                                                                <place name="石家庄" url="/shijiazhuang/"/>
+                                                                                <place name="南戴河" url="/nandaihe/"/>
+                                                                                <place name="山海关" url="/shanhaiguan/"/>
+                                                                                <place name="乐亭" url="/laoting/"/>
+                                                                                <place name="保定" url="/baoding/"/>
+                                                                                <place name="狼牙山" url="/langyashan/"/>
+                                                                                <place name="唐山" url="/tangshan/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="湖北" id=""  url="/hubei/" englishName="Hubei" imgurl="http://hiphotos.baidu.com/baidu/pic/item/8b82b9014a90f603c405e7833912b31bb151edb9.jpg">
+                                                            <place name="武汉" url="/wuhan/"/>
+                                                                                <place name="武当山" url="/wudangshan/"/>
+                                                                                <place name="宜昌" url="/yichang/"/>
+                                                                                <place name="恩施" url="/enshi/"/>
+                                                                                <place name="神农架" url="/shennongjia/"/>
+                                                                                <place name="襄阳" url="/xiangyang/"/>
+                                                                                <place name="九宫山" url="/jiugongshan/"/>
+                                                                                <place name="红安" url="/hongan/"/>
+                                                                                <place name="荆州" url="/jingzhou/"/>
+                                                                                <place name="十堰" url="/shiyan/"/>
+                                                                                <place name="咸宁" url="/xianning/"/>
+                                                                                <place name="赤壁" url="/chibi/"/>
+                                                                                <place name="京山" url="/jingmenjingshan/"/>
+                                                                                <place name="三峡大坝" url="/sanxiadaba/"/>
+                                                                                                                                                                                                                                                                        </record>
+                    <record name="内蒙古" id=""  url="/neimenggu/" englishName="Inner Mongolia" imgurl="http://hiphotos.baidu.com/baidu/pic/item/8d5494eef01f3a29c0e4490d9925bc315d607cc1.jpg">
+                                                            <place name="呼伦贝尔" url="/hulunbeier/"/>
+                                                                                <place name="阿尔山" url="/aershan/"/>
+                                                                                <place name="海拉尔" url="/hailaer/"/>
+                                                                                <place name="满洲里" url="/manzhouli/"/>
+                                                                                <place name="呼和浩特" url="/huhehaote/"/>
+                                                                                <place name="大青沟" url="/daqinggou/"/>
+                                                                                <place name="赤峰" url="/chifeng/"/>
+                                                                                <place name="鄂尔多斯" url="/eerduosi/"/>
+                                                                                <place name="包头" url="/baotou/"/>
+                                                                                <place name="通辽" url="/tongliao/"/>
+                                                                                <place name="额济纳旗" url="/ejinaqi/"/>
+                                                                                                                                                                                                                                                                                                                                                                                    </record>
+                    <record name="天津" id=""  url="/tianjin/" englishName="Tianjin" imgurl="http://hiphotos.baidu.com/baidu/pic/item/342ac65c10385343e601f7e59313b07ecb808823.jpg">
+                                                            <place name="塘沽" url="/tanggu/"/>
+                                                                                <place name="五大道" url="/wudadao/"/>
+                                                                                <place name="古文化街" url="/guwenhuajie/"/>
+                                                                                <place name="天津之眼" url="/tianjinzhiyan/"/>
+                                                                                <place name="意式风情街" url="/yishifengqingjie/"/>
+                                                                                <place name="西开教堂" url="/xikaijiaotang/"/>
+                                                                                <place name="海河风景线" url="/haihefengjingxian/"/>
+                                                                                <place name="蓟县" url="/jixian/"/>
+                                                                                <place name="瓷房子" url="/cifangzi/"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="北京" id=""  url="/beijing/" englishName="Beijing" imgurl="http://hiphotos.baidu.com/baidu/pic/item/b21c8701a18b87d6f68cdadb070828381e30fd2c.jpg">
+                                                            <place name="故宫" url="/gugong/"/>
+                                                                                <place name="后海" url="/houhai/"/>
+                                                                                <place name="八达岭长城 " url="/badalingchangcheng/"/>
+                                                                                <place name="南锣鼓巷 " url="/nanluoguxiang/"/>
+                                                                                <place name="颐和园" url="/yiheyuan/"/>
+                                                                                <place name="三里屯" url="/sanlitun/"/>
+                                                                                <place name="鸟巢" url="/niaochao/"/>
+                                                                                <place name="香山" url="/xiangshan/"/>
+                                                                                <place name="天坛" url="/tiantan/"/>
+                                                                                <place name="雍和宫" url="/yonghegong/"/>
+                                                                                <place name="前门" url="/qianmen/"/>
+                                                                                <place name="圆明园" url="/yuanmingyuan/"/>
+                                                                                <place name="798艺术区" url="/798yishuqu/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="重庆" id=""  url="/chongqing/" englishName="ChungKing" imgurl="http://hiphotos.baidu.com/baidu/pic/item/caef76094b36acaf1e0ce5387cd98d1000e99c01.jpg">
+                                                            <place name="解放碑" url="/jiefangbei/"/>
+                                                                                <place name="大足石刻" url="/dazushike/"/>
+                                                                                <place name="小三峡" url="/xiaosanxia/"/>
+                                                                                <place name="磁器口" url="/ciqikou/"/>
+                                                                                <place name="朝天门" url="/chaotianmen/"/>
+                                                                                <place name="渣滓洞" url="/zhazidong/"/>
+                                                                                <place name="武隆" url="/wulong/"/>
+                                                                                <place name="巫山" url="/wushan/"/>
+                                                                                <place name="涪陵" url="/fuling/"/>
+                                                                                <place name="洪崖洞" url="/hongyadong/"/>
+                                                                                <place name="丰都" url="/fengdu/"/>
+                                                                                <place name="白帝城" url="/baidicheng/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="黑龙江" id=""  url="/heilongjiang/" englishName="Heilongjiang" imgurl="http://hiphotos.baidu.com/baidu/pic/item/c2cec3fdfc03924550da93cb8794a4c27c1e2582.jpg">
+                                                            <place name="哈尔滨" url="/haerbin/"/>
+                                                                                <place name="漠河" url="/mohe/"/>
+                                                                                <place name="五大连池" url="/wudalianchi/"/>
+                                                                                <place name="兴凯湖" url="/xingkaihu/"/>
+                                                                                <place name="雪乡" url="/xuexiang/"/>
+                                                                                <place name="大兴安岭" url="/daxinganling/"/>
+                                                                                <place name="齐齐哈尔" url="/qiqihaer/"/>
+                                                                                <place name="牡丹江" url="/mudanjiang/"/>
+                                                                                <place name="伊春" url="/yichun/"/>
+                                                                                <place name="大庆" url="/daqing/"/>
+                                                                                <place name="镜泊湖" url="/jingbohu/"/>
+                                                                                <place name="帽儿山" url="/maoershan/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="吉林" id=""  url="/jilin/" englishName="Jilin" imgurl="http://hiphotos.baidu.com/baidu/pic/item/d000baa1cd11728b38d9fee6c8fcc3cec2fd2c79.jpg">
+                                                            <place name="长白山" url="/changbaishan/"/>
+                                                                                <place name="长春" url="/changchun/"/>
+                                                                                <place name="延吉" url="/yanji/"/>
+                                                                                <place name="雾凇岛" url="/wusongdao/"/>
+                                                                                <place name="集安" url="/jian/"/>
+                                                                                <place name="吉林市" url="/jilinshi/"/>
+                                                                                <place name="查干湖" url="/chaganhu/"/>
+                                                                                <place name="三角龙湾" url="/sanjiaolongwan/"/>
+                                                                                <place name="通化" url="/tonghua/"/>
+                                                                                <place name="四平" url="/siping/"/>
+                                                                                <place name="松原" url="/songyuan/"/>
+                                                                                <place name="白城" url="/jilinbaicheng/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="辽宁" id=""  url="/liaoning/" englishName="Liaoning" imgurl="http://hiphotos.baidu.com/baidu/pic/item/9213b07eca8065382cf9d9d797dda144ac3482e6.jpg">
+                                                            <place name="大连" url="/dalian/"/>
+                                                                                <place name="丹东" url="/dandong/"/>
+                                                                                <place name="沈阳" url="/shenyang/"/>
+                                                                                <place name="兴城" url="/xingcheng/"/>
+                                                                                <place name="葫芦岛" url="/huludao/"/>
+                                                                                <place name="绥中" url="/suizhong/"/>
+                                                                                <place name="旅顺" url="/lvshun/"/>
+                                                                                <place name="锦州" url="/jinzhou/"/>
+                                                                                <place name="抚顺" url="/liaoningfushun/"/>
+                                                                                <place name="鞍山" url="/anshan/"/>
+                                                                                <place name="本溪" url="/benxi/"/>
+                                                                                <place name="营口" url="/yingkou/"/>
+                                                                                <place name="盘锦" url="/panjin/"/>
+                                                                                <place name="长兴岛" url="/changxingdao/"/>
+                                                                                                                                                                                                                                                                        </record>
+                    <record name="新疆" id=""  url="/xinjiang/" englishName="Xinjiang" imgurl="http://hiphotos.baidu.com/baidu/pic/item/0b55b319ebc4b745f613cad2cffc1e178b82156a.jpg">
+                                                            <place name="乌鲁木齐" url="/wulumuqi/"/>
+                                                                                <place name="喀纳斯" url="/kanasi/"/>
+                                                                                <place name="吐鲁番" url="/tulufan/"/>
+                                                                                <place name="喀什" url="/kashi/"/>
+                                                                                <place name="库尔勒" url="/kuerle/"/>
+                                                                                <place name="伊犁" url="/yili/"/>
+                                                                                <place name="哈密" url="/hami/"/>
+                                                                                <place name="阿克苏" url="/akesu/"/>
+                                                                                <place name="天山" url="/tianshan/"/>
+                                                                                <place name="和田" url="/hetian/"/>
+                                                                                <place name="阿勒泰" url="/aletai/"/>
+                                                                                <place name="克拉玛依" url="/kelamayi/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="青海" id=""  url="/qinghai/" englishName="Qinghai" imgurl="http://hiphotos.baidu.com/baidu/pic/item/0df431adcbef7609601de55b2edda3cc7dd99edb.jpg">
+                                                            <place name="青海湖" url="/qinghaihu/"/>
+                                                                                <place name="西宁" url="/xining/"/>
+                                                                                <place name="格尔木" url="/geermu/"/>
+                                                                                <place name="可可西里" url="/kekexili/"/>
+                                                                                <place name="互助" url="/huzhu/"/>
+                                                                                <place name="玉树" url="/yushu/"/>
+                                                                                <place name="祁连山草原" url="/qilianshancaoyuan/"/>
+                                                                                <place name="茶卡盐湖" url="/chakayanhu/"/>
+                                                                                <place name="德令哈" url="/delingha/"/>
+                                                                                <place name="塔尔寺" url="/taersi/"/>
+                                                                                <place name="同仁" url="/tongren/"/>
+                                                                                <place name="察尔汗盐湖" url="/chaerhanyanhu/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="甘肃" id=""  url="/gansu/" englishName="Gansu" imgurl="http://hiphotos.baidu.com/baidu/pic/item/fcfaaf51f3deb48fc56add1af01f3a292cf578f6.jpg">
+                                                            <place name="敦煌" url="/dunhuang/"/>
+                                                                                <place name="兰州" url="/lanzhou/"/>
+                                                                                <place name="甘南" url="/gannan/"/>
+                                                                                <place name="嘉峪关" url="/jiayuguan/"/>
+                                                                                <place name="天水" url="/tianshui/"/>
+                                                                                <place name="刘家峡" url="/liujiaxia/"/>
+                                                                                <place name="张掖" url="/zhangye/"/>
+                                                                                <place name="崆峒山" url="/kongtongshan/"/>
+                                                                                <place name="麦积山" url="/maijishan/"/>
+                                                                                <place name="莫高窟" url="/mogaoku/"/>
+                                                                                <place name="酒泉" url="/jiuquan/"/>
+                                                                                <place name="祁连山" url="/qilianshan/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="宁夏" id=""  url="/ningxia/" englishName="Ningxia" imgurl="http://hiphotos.baidu.com/baidu/pic/item/241f95cad1c8a786b8a236ca6709c93d71cf506d.jpg">
+                                                            <place name="银川" url="/yinchuan/"/>
+                                                                                <place name="沙坡头" url="/shapotou/"/>
+                                                                                <place name="沙湖" url="/shahu/"/>
+                                                                                <place name="中卫" url="/zhongwei/"/>
+                                                                                <place name="固原" url="/guyuan/"/>
+                                                                                <place name="石嘴山" url="/shizuishan/"/>
+                                                                                <place name="吴忠" url="/wuzhong/"/>
+                                                                                <place name="贺兰山" url="/helanshan/"/>
+                                                                                <place name="西夏王陵" url="/xixiawangling/"/>
+                                                                                <place name="镇北堡影视城" url="/zhenbeibaoyingshicheng/"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                        </record>
+                    <record name="陕西" id=""  url="/shaanxi/" englishName="Shaanxi" imgurl="http://hiphotos.baidu.com/baidu/pic/item/aa18972bd40735fa7f65327d9e510fb30e240858.jpg">
+                                                            <place name="西安" url="/xian/"/>
+                                                                                <place name="华山" url="/huashan/"/>
+                                                                                <place name="汉中" url="/hanzhong/"/>
+                                                                                <place name="延安" url="/yanan/"/>
+                                                                                <place name="太白山" url="/taibaishan/"/>
+                                                                                <place name="安康" url="/ankang/"/>
+                                                                                <place name="宝鸡" url="/baoji/"/>
+                                                                                <place name="秦岭" url="/qinling/"/>
+                                                                                <place name="秦始皇兵马俑" url="/qinshihuangbingmayong/"/>
+                                                                                <place name="法门寺" url="/baojifamensi/"/>
+                                                                                <place name="华清池" url="/huaqingchi/"/>
+                                                                                <place name="乾陵" url="/qianling/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="山西" id=""  url="/shanxi/" englishName="Shanxi" imgurl="http://hiphotos.baidu.com/baidu/pic/item/500fd9f9d72a605923189ede2834349b023bbaed.jpg">
+                                                            <place name="五台山" url="/wutaishan/"/>
+                                                                                <place name="太原" url="/taiyuan/"/>
+                                                                                <place name="大同" url="/datong/"/>
+                                                                                <place name="平遥" url="/pingyao/"/>
+                                                                                <place name="绵山" url="/mianshan/"/>
+                                                                                <place name="乔家大院" url="/qiaojiadayuan/"/>
+                                                                                <place name="王家大院" url="/wangjiadayuan/"/>
+                                                                                <place name="恒山" url="/hengshan/"/>
+                                                                                <place name="晋城" url="/jincheng/"/>
+                                                                                <place name="壶口瀑布" url="/hukoupubu/"/>
+                                                                                <place name="长治" url="/changzhi/"/>
+                                                                                <place name="大寨" url="/dazhai/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="安徽" id=""  url="/anhui/" englishName="Anhui" imgurl="http://hiphotos.baidu.com/baidu/pic/item/f11f3a292df5e0fed4abf7c55c6034a85fdf7246.jpg">
+                                                            <place name="黄山" url="/huangshan/"/>
+                                                                                <place name="九华山" url="/jiuhuashan/"/>
+                                                                                <place name="合肥" url="/hefei/"/>
+                                                                                <place name="安庆" url="/anqing/"/>
+                                                                                <place name="宏村" url="/hongcun/"/>
+                                                                                <place name="天柱山" url="/tianzhushan/"/>
+                                                                                <place name="大别山" url="/liuandabieshan/"/>
+                                                                                <place name="绩溪" url="/jixi/"/>
+                                                                                <place name="芜湖" url="/wuhu/"/>
+                                                                                <place name="泾县" url="/jingxian/"/>
+                                                                                <place name="歙县" url="/shexian/"/>
+                                                                                <place name="马鞍山" url="/maanshan/"/>
+                                                                                <place name="凤阳" url="/fengyang/"/>
+                                                                                <place name="黟县" url="/yixian/"/>
+                                                                                                                                                                                                                                                                        </record>
+                    <record name="福建" id=""  url="/fujian/" englishName="Fujian" imgurl="http://hiphotos.baidu.com/baidu/pic/item/bba1cd11728b4710c2398408c3cec3fdfd0323db.jpg">
+                                                            <place name="厦门" url="/xiamen/"/>
+                                                                                <place name="武夷山" url="/wuyishan/"/>
+                                                                                <place name="鼓浪屿" url="/gulangyu/"/>
+                                                                                <place name="福州" url="/fuzhou/"/>
+                                                                                <place name="泉州" url="/quanzhou/"/>
+                                                                                <place name="永定土楼" url="/yongdingtulou/"/>
+                                                                                <place name="龙岩" url="/longyan/"/>
+                                                                                <place name="太姥山" url="/taimushan/"/>
+                                                                                <place name="白水洋" url="/baishuiyang/"/>
+                                                                                <place name="平潭" url="/pingtan/"/>
+                                                                                <place name="泰宁" url="/taining/"/>
+                                                                                <place name="湄洲岛" url="/meizhoudao/"/>
+                                                                                <place name="东山岛" url="/dongshandao/"/>
+                                                                                <place name="永安" url="/yongan/"/>
+                                                                                                                                                                                                                                                                        </record>
+                    <record name="广西" id=""  url="/guangxi/" englishName="Guangxi" imgurl="http://hiphotos.baidu.com/baidu/pic/item/d52a2834349b033b53bf841e15ce36d3d539bd3a.jpg">
+                                                            <place name="桂林" url="/guilin/"/>
+                                                                                <place name="北海" url="/beihai/"/>
+                                                                                <place name="阳朔" url="/yangshuo/"/>
+                                                                                <place name="涠洲岛" url="/weizhoudao/"/>
+                                                                                <place name="南宁" url="/nanning/"/>
+                                                                                <place name="巴马" url="/bama/"/>
+                                                                                <place name="防城港" url="/fangchenggang/"/>
+                                                                                <place name="柳州" url="/liuzhou/"/>
+                                                                                <place name="漓江" url="/guilinlijiang/"/>
+                                                                                <place name="东兴" url="/dongxing/"/>
+                                                                                <place name="贺州" url="/hezhou/"/>
+                                                                                <place name="融水" url="/rongshui/"/>
+                                                                                <place name="百色" url="/baise/"/>
+                                                                                <place name="靖西" url="/jingxi/"/>
+                                                                                <place name="梧州" url="/wuzhou/"/>
+                                                                                                                                                                                                                                    </record>
+                    <record name="贵州" id=""  url="/guizhou/" englishName="Guizhou" imgurl="http://hiphotos.baidu.com/baidu/pic/item/d833c895d143ad4b4e3a3e0482025aafa50f06d9.jpg">
+                                                            <place name="贵阳" url="/guiyang/"/>
+                                                                                <place name="镇远" url="/zhenyuan/"/>
+                                                                                <place name="梵净山" url="/fanjingshan/"/>
+                                                                                <place name="赤水" url="/chishui/"/>
+                                                                                <place name="荔波" url="/libo/"/>
+                                                                                <place name="黄果树" url="/huangguoshu/"/>
+                                                                                <place name="遵义" url="/zunyi/"/>
+                                                                                <place name="黔东南" url="/qiandongnan/"/>
+                                                                                <place name="凯里" url="/kaili/"/>
+                                                                                <place name="安顺" url="/anshun/"/>
+                                                                                <place name="铜仁" url="/tongren/"/>
+                                                                                <place name="六盘水" url="/liupanshui/"/>
+                                                                                <place name="黔西南" url="/qianxinan/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="云南" id=""  url="/yunnan/" englishName="Yunnan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/f603918fa0ec08fab2b36b6359ee3d6d54fbda47.jpg">
+                                                            <place name="丽江" url="/lijiang/"/>
+                                                                                <place name="昆明" url="/kunming/"/>
+                                                                                <place name="西双版纳" url="/xishuangbanna/"/>
+                                                                                <place name="香格里拉" url="/xianggelila/"/>
+                                                                                <place name="腾冲" url="/tengchong/"/>
+                                                                                <place name="大理" url="/dali/"/>
+                                                                                <place name="泸沽湖" url="/luguhu/"/>
+                                                                                <place name="罗平" url="/luoping/"/>
+                                                                                <place name="抚仙湖" url="/fuxianhu/"/>
+                                                                                <place name="瑞丽" url="/ruili/"/>
+                                                                                <place name="玉溪" url="/yuxi/"/>
+                                                                                <place name="楚雄" url="/chuxiong/"/>
+                                                                                <place name="曲靖" url="/qujing/"/>
+                                                                                <place name="红河" url="/honghe/"/>
+                                                                                                                                                                                                                                                                        </record>
+                    <record name="西藏" id=""  url="/xizang/" englishName="Tibet" imgurl="http://hiphotos.baidu.com/baidu/pic/item/30adcbef76094b368bb46029a3cc7cd98c109dcb.jpg">
+                                                            <place name="拉萨" url="/lasa/"/>
+                                                                                <place name="林芝" url="/linzhi/"/>
+                                                                                <place name="墨脱" url="/motuo/"/>
+                                                                                <place name="日喀则" url="/rikaze/"/>
+                                                                                <place name="纳木措" url="/namucuo/"/>
+                                                                                <place name="布达拉宫" url="/budalagong/"/>
+                                                                                <place name="昌都" url="/changdu/"/>
+                                                                                <place name="珠穆朗玛峰" url="/zhumulangmafeng/"/>
+                                                                                <place name="阿里" url="/ali/"/>
+                                                                                <place name="玛旁雍错" url="/mapangyongcuo/"/>
+                                                                                <place name="那曲" url="/naqu/"/>
+                                                                                <place name="山南" url="/shannan/"/>
+                                                                                                                                                                                                                                                                                                                                                </record>
+                    <record name="四川" id=""  url="/sichuan/" englishName="Sichuan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/5fdf8db1cb1349545b4193a0564e9258d0094a92.jpg">
+                                                            <place name="九寨沟" url="/jiuzhaigou/"/>
+                                                                                <place name="成都" url="/chengdu/"/>
+                                                                                <place name="峨眉山" url="/emeishan/"/>
+                                                                                <place name="四姑娘山" url="/siguniangshan/"/>
+                                                                                <place name="都江堰" url="/dujiangyan/"/>
+                                                                                <place name="青城山" url="/qingchengshan/"/>
+                                                                                <place name="海螺沟" url="/hailuogou/"/>
+                                                                                <place name="蜀南竹海" url="/shunanzhuhai/"/>
+                                                                                <place name="西昌" url="/xichang/"/>
+                                                                                <place name="康定" url="/kangding/"/>
+                                                                                <place name="雅安" url="/yaan/"/>
+                                                                                <place name="阆中" url="/langzhong/"/>
+                                                                                <place name="碧峰峡" url="/bifengxia/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="湖南" id=""  url="/hunan/" englishName="Hunan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/c75c10385343fbf2a7fedde7b07eca8064388f27.jpg">
+                                                            <place name="张家界" url="/zhangjiajie/"/>
+                                                                                <place name="长沙" url="/changsha/"/>
+                                                                                <place name="凤凰" url="/fenghuang/"/>
+                                                                                <place name="衡山" url="/hengyanghengshan/"/>
+                                                                                <place name="崀山" url="/langshan/"/>
+                                                                                <place name="岳阳" url="/yueyang/"/>
+                                                                                <place name="韶山" url="/shaoshan/"/>
+                                                                                <place name="郴州" url="/chenzhou/"/>
+                                                                                <place name="衡阳" url="/hengyang/"/>
+                                                                                <place name="株洲" url="/zhuzhou/"/>
+                                                                                <place name="常德" url="/changde/"/>
+                                                                                <place name="怀化" url="/huaihua/"/>
+                                                                                <place name="湘西" url="/xiangxi/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="江西" id=""  url="/jiangxi/" englishName="Jiangxi" imgurl="http://hiphotos.baidu.com/baidu/pic/item/b812c8fcc3cec3fd8079ddb1d688d43f869427aa.jpg">
+                                                            <place name="婺源" url="/wuyuan/"/>
+                                                                                <place name="庐山" url="/lushan/"/>
+                                                                                <place name="井冈山" url="/jinggangshan/"/>
+                                                                                <place name="三清山" url="/sanqingshan/"/>
+                                                                                <place name="南昌" url="/nanchang/"/>
+                                                                                <place name="龙虎山" url="/longhushan/"/>
+                                                                                <place name="景德镇" url="/jingdezhen/"/>
+                                                                                <place name="武功山" url="/wugongshan/"/>
+                                                                                <place name="明月山" url="/mingyueshan/"/>
+                                                                                <place name="九江" url="/jiujiang/"/>
+                                                                                <place name="赣州" url="/ganzhou/"/>
+                                                                                <place name="上饶" url="/shangrao/"/>
+                                                                                <place name="宜春" url="/jiangxiyichun/"/>
+                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="海南" id=""  url="/hainan/" englishName="Hainan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/ac6eddc451da81cbb356f9095266d01608243145.jpg">
+                                                            <place name="三亚" url="/sanya/"/>
+                                                                                <place name="海口" url="/haikou/"/>
+                                                                                <place name="西沙群岛" url="/xishaqundao/"/>
+                                                                                <place name="琼海" url="/qionghai/"/>
+                                                                                <place name="文昌" url="/wenchang/"/>
+                                                                                <place name="五指山" url="/wuzhishanshi/"/>
+                                                                                <place name="亚龙湾" url="/yalongwan/"/>
+                                                                                <place name="三沙" url="/sansha/"/>
+                                                                                <place name="陵水" url="/hainanlingshui/"/>
+                                                                                <place name="万宁" url="/wanning/"/>
+                                                                                <place name="天涯海角" url="/tianyahaijiao/"/>
+                                                                                                                                                                                                                                                                                                                                                                                    </record>
+                    <record name="香港" id=""  url="/xianggang/" englishName="HongKong" imgurl="http://hiphotos.baidu.com/baidu/pic/item/4d086e061d950a7bd0ea34000ad162d9f3d3c913.jpg">
+                                                            <place name="迪士尼乐园" url="/dishinileyuan/"/>
+                                                                                <place name="铜锣湾" url="/tongluowan/"/>
+                                                                                <place name="维多利亚港" url="/weiduoliyagang/"/>
+                                                                                <place name="海洋公园" url="/haiyanggongyuan/"/>
+                                                                                <place name="尖沙咀" url="/jianshaju/"/>
+                                                                                <place name="太平山" url="/taipingshan/"/>
+                                                                                <place name="兰桂坊" url="/languifang/"/>
+                                                                                <place name="九龙" url="/jiulong/"/>
+                                                                                <place name="旺角" url="/wangjiao/"/>
+                                                                                <place name="香港杜莎夫人蜡像馆" url="/xianggangdushafurenlaxiangguan/"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                        </record>
+                    <record name="澳门" id=""  url="/aomen/" englishName="Macau" imgurl="http://hiphotos.baidu.com/baidu/pic/item/4610b912c8fcc3ceb9a5acf79245d688d53f2088.jpg">
+                                                            <place name="大三巴牌坊" url="/dasanbapaifang/"/>
+                                                                                <place name="妈阁庙" url="/magemiao/"/>
+                                                                                <place name="葡京娱乐城" url="/pujingyulecheng/"/>
+                                                                                <place name="玫瑰圣母堂" url="/meiguishengmutang/"/>
+                                                                                <place name="金莲花广场" url="/jinlianhuaguangchang/"/>
+                                                                                <place name="大炮台" url="/dapaotai/"/>
+                                                                                <place name="渔人码头" url="/aomenyurenmatou/"/>
+                                                                                <place name="议事亭前地" url="/yishitingqiandi/"/>
+                                                                                <place name="氹仔市区" url="/dangzishiqu/"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            </record>
+                    <record name="台湾" id=""  url="/taiwan/" englishName="Taiwan" imgurl="http://hiphotos.baidu.com/baidu/pic/item/f703738da97739120b78e0a5f8198618377ae29c.jpg">
+                                                            <place name="台北" url="/taibei/"/>
+                                                                                <place name="高雄" url="/gaoxiong/"/>
+                                                                                <place name="金门" url="/jinmen/"/>
+                                                                                <place name="垦丁" url="/kending/"/>
+                                                                                <place name="阿里山" url="/alishan/"/>
+                                                                                <place name="淡水" url="/danshui/"/>
+                                                                                <place name="基隆" url="/jilong/"/>
+                                                                                <place name="花莲" url="/hualian/"/>
+                                                                                <place name="台南" url="/tainan/"/>
+                                                                                <place name="日月潭" url="/riyuetan/"/>
+                                                                                <place name="澎湖" url="/penghu/"/>
+                                                                                <place name="绿岛" url="/lvdao/"/>
+                                                                                <place name="台中" url="/taizhong/"/>
+                                                                                <place name="桃园" url="/taoyuan/"/>
+                                                                                                                                                                                                                                                                        </record>
+            </china>
+   
+</root>
