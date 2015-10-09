@@ -7,8 +7,8 @@ var zuobiaogetobj;
 
 	zubiaogetjson = new getJson();
 	zubiaogetjson.init();
-	
-	zubiaogetjson.Open("GET","./getDatazuobiao.json",true);
+
+	zubiaogetjson.Open("GET","http://www.ljkdream.com/travel/getTravelDate.json",true);
 	
 	zubiaogetjson.xmlhttp.onreadystatechange = function(){
 		if(this.status == 200&& this.readyState == 4){
@@ -44,7 +44,7 @@ zuobiaopicinit = function(){
 createDomzuobiao = function(classnameid,wid,height){
 	var hotpic = document.getElementsByClassName("zhoubianpic"+(classnameid+1))[0];
 	var img1 = hotpic.getElementsByTagName("img")[0];
-	img1.src = "img/"+zuobiaogetobj.attachment[classnameid].picture+".jpg";
+	img1.src = zuobiaogetobj.attachment[classnameid].pic;
 	
 	img1.onload = function(){
 		var bili = this.width/this.height
@@ -72,7 +72,7 @@ createDomzuobiao = function(classnameid,wid,height){
 
 	var shownum = Math.ceil(wid/11)
 
-	var description = zuobiaogetobj.attachment[classnameid].abstractDes.replace(/[\r\n]/g, "");
+	var description = zuobiaogetobj.attachment[classnameid].absDesc.replace(/[\r\n]/g, "");
 	if (description.length >= shownum) {
 		description = description.substr(0, shownum) + "......"
 	}
@@ -82,8 +82,17 @@ createDomzuobiao = function(classnameid,wid,height){
 	var nametxt = hotpic.getElementsByTagName("div")[2];
 	nametxt.className ="zhoubianname";
 	
-	var nametxttexr = zuobiaogetobj.attachment[classnameid].name.replace(/[\r\n]/g, "");
+	var nametxttexr = zuobiaogetobj.attachment[classnameid].sname.replace(/[\r\n]/g, "");
 	nametxt.innerHTML = nametxttexr
 	var paddleft = wid-nametxttexr.length*15 - 15
 	nametxt.style.paddingLeft = paddleft+"px"
+	
+	hotpic.addEventListener("click",function(){
+		//alert( getobj.attachment[classnameid].sid)
+		window.open("/TravelWeb/jingdian.html?"+zuobiaogetobj.attachment[classnameid].sid)		
+	})
+	
+	
+	
+	
 }

@@ -9,17 +9,24 @@ $(function(){
 	var curpage = 1;
 	var totnum = 0;
 	var totpagenum = 0;
+	var add = location.href.split("?")[1]
+	//getajax.Open("GET","./getDataForXingzheng.json",true);
+	var getjson;
+	getajax.Open("GET", "http://www.ljkdream.com/travel/getLocationBySId.json?sid="+add, true);
 	
-	getajax.Open("GET","./getDataForXingzheng.json",true);
+	
+	
 	
 	getajax.xmlhttp.onreadystatechange = function(){
 		if(this.readyState == 4 && this.status == 200){
 			jsonobj = eval("("+this.responseText+")");
 			console.log(jsonobj);
+			/**这里是我在9月6日屏蔽的
 			totnum = jsonobj.totnum;
 			totpagenum = Math.ceil(totnum/18);
 			console.log(totnum/18,totpagenum)
 			createPicList(1,18)
+			**/
 		}
 	}
 	
@@ -101,10 +108,15 @@ $(function(){
 		p.createDom();
 	}
 	
-	window.test = function(an){
-		alert(an)
+
+
+	window.gotoPage = function(txt){
+		console.log("这里应该执行加载页面功能"+txt)
+		
+		
 	}
-	
-	
+	window.gotoPage(1)
+
+
 	
 })

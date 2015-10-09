@@ -9,16 +9,16 @@ lib.properties = {
 	fps: 24,
 	color: "#FFFFFF",
 	manifest: [
-		{src:"images/圖層48.png", id:"圖層48"},
-		{src:"images/圖層49.png", id:"圖層49"},
-		{src:"images/圖層50.jpg", id:"圖層50"},
-		{src:"images/圖層51.png", id:"圖層51"},
-		{src:"images/圖層51拷貝.png", id:"圖層51拷貝"},
-		{src:"images/圖層51拷貝2.png", id:"圖層51拷貝2"},
-		{src:"images/圖層51拷貝3.png", id:"圖層51拷貝3"},
-		{src:"images/圖層51拷貝4.png", id:"圖層51拷貝4"},
-		{src:"images/圖層51拷貝5.png", id:"圖層51拷貝5"},
-		{src:"images/圖層51拷貝6.png", id:"圖層51拷貝6"}
+		{src:"images/TC48.png", id:"圖層48"},
+		{src:"images/TC49.png", id:"圖層49"},
+		{src:"images/TC50.jpg", id:"圖層50"},
+		{src:"images/TC51.png", id:"圖層51"},
+		{src:"images/TC51COP.png", id:"圖層51拷貝"},
+		{src:"images/TC51COP2.png", id:"圖層51拷貝2"},
+		{src:"images/TC51COP3.png", id:"圖層51拷貝3"},
+		{src:"images/TC51COP4.png", id:"圖層51拷貝4"},
+		{src:"images/TC51COP5.png", id:"圖層51拷貝5"},
+		{src:"images/TC51COP6.png", id:"圖層51拷貝6"}
 	]
 };
 

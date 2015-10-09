@@ -7,7 +7,7 @@ var getobj;
 //window.onload = function(){
 	gethot = new getJson();
 	gethot.init();
-	gethot.Open("GET","./getData.json",true);
+	gethot.Open("GET","http://www.ljkdream.com/travel/getHotDate.json",true);
 	gethot.xmlhttp.onreadystatechange = function(){
 		if(this.status == 200&& this.readyState == 4){
 			var test = this.responseText;
@@ -38,7 +38,7 @@ hotpicinit = function(){
 createDomhot = function(classnameid,wid,height){
 	var hotpic = document.getElementsByClassName("hotpic"+(classnameid+1))[0];
 	var img1 = hotpic.getElementsByTagName("img")[0];
-	img1.src = "img/"+getobj.attachment[classnameid].picture+".jpg";
+	img1.src = getobj.attachment[classnameid].pic;
 	
 	img1.onload = function(){
 		var bili = this.width/this.height
@@ -66,7 +66,7 @@ createDomhot = function(classnameid,wid,height){
 
 	var shownum = Math.ceil(wid/11)
 
-	var description = getobj.attachment[classnameid].abstractDes.replace(/[\r\n]/g, "");
+	var description = getobj.attachment[classnameid].absDesc.replace(/[\r\n]/g, "");
 	if (description.length >= shownum) {
 		description = description.substr(0, shownum) + "......"
 	}
@@ -76,10 +76,21 @@ createDomhot = function(classnameid,wid,height){
 	var nametxt = hotpic.getElementsByTagName("div")[2];
 	nametxt.className ="hotname";
 	
-	var nametxttexr = getobj.attachment[classnameid].name.replace(/[\r\n]/g, "");
+	var nametxttexr = getobj.attachment[classnameid].sname.replace(/[\r\n]/g, "");
 	nametxt.innerHTML = nametxttexr
 	var paddleft = wid-nametxttexr.length*15 - 15
 	nametxt.style.paddingLeft = paddleft+"px"
+	
+	hotpic.addEventListener("click",function(){
+		//alert( getobj.attachment[classnameid].sid)
+		window.open("/TravelWeb/jingdian.html?"+getobj.attachment[classnameid].sid)		
+	})
+	
+	
+	
+	
+	
+	
 }
 
 

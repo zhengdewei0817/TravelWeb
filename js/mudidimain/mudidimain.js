@@ -11,7 +11,7 @@ $(function() {
 
 	$.ajax({
 		type: "get",
-		url: "./getData.json",
+		url: "http://www.ljkdream.com/travel/getDangJiLvYou.json",
 		async: true,
 		success: function(data, textStatus) {
 			getJson(data, textStatus)
@@ -36,13 +36,19 @@ $(function() {
 				createOneDom($(".picdiv")[1], getjson.attachment[i]);
 			}
 		}
+		
 
 
 	}
 
 
+	
+	
+
+
 	//创建单个Dom
 	function createOneDom(divinfo, obj) {
+		
 		var divdiyige = document.createElement("div");
 		divinfo.appendChild(divdiyige);
 		$(divdiyige).attr("class", "divdiyige");
@@ -54,7 +60,7 @@ $(function() {
 
 		var img = document.createElement("img");
 		divdier.appendChild(img)
-		img.src = "img/" + obj.picture + ".jpg";
+		img.src = obj.pic 
 
 		img.onload = function() {
 			var bili = this.width / this.height
@@ -83,7 +89,10 @@ $(function() {
 		$(divdier_div_txt).attr("class","divdier_div_txt")
 		$(divdier_div_txt).text("点击进入")
 
-		divdier.onmouseover = function(_e) {
+		
+
+
+		$(divdier).on("mouseover", function(_e) {
 
 			var e = _e ? _e : window.event;
 
@@ -103,7 +112,7 @@ $(function() {
 				left = "-100%";
 			}
 			if (R <= L && R <= T && R <= B) {
-				//console.log("you")
+			//	console.log("you")
 				left = "100%";
 			}
 			if (T <= L && T <= R && T <= B) {
@@ -114,32 +123,35 @@ $(function() {
 				//console.log("xia")
 				top = "100%";
 			}
-			//			if (!$(divdier_div).is(":animated")) {
-			//				$(divdier_div).css({
-			//					"left": left,
-			//					"top": top
-			//				}).stop(true, true).animate({
-			//					left: 0,
-			//					top: 0
-			//				}, 300);
-			//			}
-
-
-			if ($(divdier_div).hasClass("divdier_div_animate")) {
-				$(divdier_div).removeClass("divdier_div_animate")
+			if($(divdier_div).css("top")!="0px"||$(divdier_div).css("left")!="0px"){
+				if (!$(divdier_div).is(":animated")) {
+							$(divdier_div).css({
+								"left": left,
+								"top": top
+							}).stop(true, true).animate({
+								left: 0,
+								top: 0
+							}, 200,"linear");
+						}
 			}
-			$(divdier_div).css({
-				"left": left,
-				"top": top
-			})
+						
 
-			$(divdier_div).addClass("divdier_div_animate")
-			$(divdier_div).css({
-				"left": 0,
-				"top": 0
-			})
 
-		}
+//			if ($(divdier_div).hasClass("divdier_div_animate")) {
+//				$(divdier_div).removeClass("divdier_div_animate")
+//			}
+//			$(divdier_div).css({
+//				"left": left,
+//				"top": top
+//			})
+//
+//			$(divdier_div).addClass("divdier_div_animate")
+//			$(divdier_div).css({
+//				"left": 0,
+//				"top": 0
+//			})
+
+	})
 		$(divdier).on("mouseleave", function(_e) {
 			//	var weizhi = "translate(-90px,-90px)";
 			//$(divdier_div).css({"transform":weizhi,"-ms-transform":weizhi,"-moz-transform":weizhi,"-webkit-transform":weizhi,"-o-transform":weizhi})
@@ -176,18 +188,22 @@ $(function() {
 				left = "100%";
 				//此处有点Bug  所有有时间继续修改
 			}
-			//			if (!$(divdier_div).is(":animated")) {
-			//				$(divdier_div).stop(true, true).animate({
-			//					left: left,
-			//					top: top
-			//				}, 300);
-			//			}
-			$(divdier_div).addClass("divdier_div_animate")
-
-			$(divdier_div).css({
-				"left": left,
-				"top": top
-			})
+//						if (!$(divdier_div).is(":animated")) {
+//							$(divdier_div).stop(true, true).animate({
+//								left: left,
+//								top: top
+//							}, 300);
+//						}
+					$(divdier_div).animate({
+								left: left,
+								top: top
+							}, 200,"linear");
+//			$(divdier_div).addClass("divdier_div_animate")
+//
+//			$(divdier_div).css({
+//				"left": left,
+//				"top": top
+//			})
 
 		})
 
@@ -196,7 +212,7 @@ $(function() {
 		var txtinfo = document.createElement("div");
 		divdiyige.appendChild(txtinfo);
 		$(txtinfo).attr("class","textinfo");
-		var strtxt = obj.abstractDes.replace(/[\r\n]/g, "");
+		var strtxt = obj.absDesc.replace(/[\r\n]/g, "");
 		if (strtxt.length >= shownum) {
 			strtxt = strtxt.substr(0, shownum) + "......"
 		}
@@ -205,10 +221,17 @@ $(function() {
 		var txtname = document.createElement("div");
 		divdiyige.appendChild(txtname);
 		$(txtname).attr("class","txtname");
-		$(txtname).text(obj.name);
-		var paddleft = 152-obj.name.length*15 - 15
+		$(txtname).text(obj.sname);
+		var paddleft = 152-obj.sname.length*15 - 15
 		$(txtname).css("paddingLeft" , paddleft+"px");
 //		console.log(obj)
+
+		divdiyige.addEventListener("click",function(){
+			window.open("/TravelWeb/jingdian.html?"+obj.sid)		
+		})
+
+
+
 	}
 
 

@@ -2,11 +2,11 @@ window.onload = function() {
 	var getpiclist = new getJson();
 	getpiclist.init();
 
-	getpiclist.Open("GET", "http://www.ljkdream.com/getData.json", true);
+	getpiclist.Open("GET", "http://www.ljkdream.com/travel/getBannerData.json", true);
 	getpiclist.xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 			var obj = this.responseText;
-
+ 
 			getpiclist.jsonobj = (eval("(" + obj + ")"));
 			//	console.log(getpiclist.jsonobj)
 			createDompic();
@@ -43,7 +43,7 @@ window.onload = function() {
 
 			var img = document.createElement("img");
 			aclick.appendChild(img)
-			img.src = "img/" + getpiclist.jsonobj.attachment[i].picture + ".jpg";
+			img.src = getpiclist.jsonobj.attachment[i].pic ;
 
 			img.onload = function() {
 //				console.log(this.width + "------" + this.height)
@@ -68,7 +68,7 @@ window.onload = function() {
 
 		var spantxt = document.createElement("span");
 		divtxt.appendChild(spantxt);
-		var description = getpiclist.jsonobj.attachment[0].abstractDes.replace(/[\r\n]/g, "");
+		var description = getpiclist.jsonobj.attachment[0].absDesc.replace(/[\r\n]/g, "");
 		if (description.length >= 96) {
 			description = description.substr(0, 96) + "......"
 		}
@@ -175,7 +175,7 @@ window.onload = function() {
 		var next = document.getElementsByClassName("picdiv")[curpicID];
 		next.className = "picdiv picdivopacitycur";
 
-		var description = getpiclist.jsonobj.attachment[curpicID].abstractDes.replace(/[\r\n]/g, "");
+		var description = getpiclist.jsonobj.attachment[curpicID].absDesc.replace(/[\r\n]/g, "");
 		if (description.length >= 96) {
 			description = description.substr(0, 96) + "......"
 		}

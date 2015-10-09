@@ -17,7 +17,7 @@
 	]
 	
 	
-	var picdis = "http://localhost/mywebmap/images/smalpic/"; 
+	var picdis = "../mywebmap/images/smalpic/"; 
 	//新建一个对象池  用来放置图片
 	var picSprite = new Array();
 	
@@ -33,7 +33,7 @@
 		ajaxgetdis = new ActiveXObject("Microsoft.XMLHTTP");
 	}
 	
-	ajaxgetdis.open("GET","http://localhost/mywebmap/dis.json",true);
+	ajaxgetdis.open("GET","../mywebmap/dis.json",true);
 	ajaxgetdis.send(null);
 	
 	
@@ -41,7 +41,7 @@
 		if(ajaxgetdis.readyState == 4&& ajaxgetdis.status == 200){
 			getjsonData = eval("("+ajaxgetdis.responseText+")");
 			
-
+				console.log(getjsonData)
 			LoadPic(getjsonData);
 		//	showAjax();
 			
@@ -107,6 +107,7 @@
 					//console.log("aaaa" + t);
 					//	alert("aaaaaa")
 					var temp = getshengInfo(t);
+					
 					drawPicAndList(temp);
 					
 					//删除图片
@@ -169,6 +170,7 @@
 	}
 
 	function drawPicAndList(obj){
+		console.log(obj)
 		exportRoot.instance.tipname.text = obj.name;
 		exportRoot.instance.text.text = obj.url;
 		var textX = 80;
@@ -178,23 +180,25 @@
 			exportRoot.instance["txt"+i].x = 0;
 			exportRoot.instance["txt"+i].y = 0;
 		}
-		for(var j = 0;j<obj.place.length;j++){
+		var lg = obj.place.length;
+	//	console.log(lg)
+		if(lg>=11){
+			lg =11
+		}
+		for(var j = 0;j<lg;j++){
+			console.log(obj.place[j].name)
 			var showtxt = obj.place[j].name;
 			if(textX+(showtxt.length*fontsize)+10>320){
 				textX = 80;
 				textY = fontsize+10+textY;
 			}
+			console.log(j+1)
 			exportRoot.instance["txt"+(j+1)].text = showtxt;
 			exportRoot.instance["txt"+(j+1)].x = textX;
 			exportRoot.instance["txt"+(j+1)].y = textY;
+			exportRoot.instance["txt"+(j+1)].url = obj.place[j].url
 		//	console.log(exportRoot.instance["txt"+(j+1)]);
 			textX = (showtxt.length*fontsize)+10+textX;
-			
-			
-			
-			
-			
-			
 			
 		//	console.log(textX)
 		}

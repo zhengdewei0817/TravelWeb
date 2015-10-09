@@ -41,8 +41,12 @@
 
 			var opts = $.extend(defines, opts);
 			var conSp = this;
-
-
+			var picarrnum = opts.picurl.length
+			if(picarrnum<=2){
+				for(var i = 0;i<picarrnum;i++){
+					opts.picurl.push(opts.picurl[i])
+				}
+			}
 			this.each(function() {
 				createUI();
 				createSVGBtn();
@@ -194,11 +198,16 @@
 					"left": "-" + opts.picW + "px",
 				});
 				for (var i = 0; i < opts.picurl.length; i++) {
-					createOneDom(i, ul, true)
+					createOneDom(i, ul, true);
 				}
 				//在最后面添加两个图片，分别为第一个跟第二个
 				createOneDom(0, ul, opts.picurl.length)
-				createOneDom(1, ul, (opts.picurl.length + 1))
+				if(opts.picurl.length>1){
+					createOneDom(1, ul, (opts.picurl.length + 1))
+				}else if(opts.picurl.length==1){
+					createOneDom(0, ul, opts.picurl.length)
+				}
+				
 
 				EventMove(ul);
 
@@ -262,6 +271,7 @@
    					  "user-select":"none",
 				})
 				img.src = opts.picurl[i];
+				console.log(img.src)
 				img.onload = function() {
 					var bili = this.width / this.height;
 					if (this.width * opts.picH / opts.picW >= this.height) {

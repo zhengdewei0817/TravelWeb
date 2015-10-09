@@ -1,0 +1,93 @@
+#main{
+	width: 1024px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+#leftmain{
+	/*background-color: #EDEDED;*/
+	width: 760px;
+	height: auto;
+	display: inline-block;
+	vertical-align: top;
+}
+#rightmain{
+	/*background-color: #EDEDED;*/
+	width: 233px;
+	height: auto;
+	padding-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#jingdianpic{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#jingdiantxtinfo{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
+
+#jingdianname{
+	margin-top: 10px;
+	font-size: 22px;
+}
+
+#jingdiantxtinfo div:not(#jingdianname){
+	margin-top: 20px;
+	width: 226px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: #666666;
+}
+
+
+
+/*#jingdianjieshao{
+	margin-top: 20px;
+	width: 226px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: #666666;
+}
+#menpiao{
+	margin-top: 20px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: #666666;
+}*/
+
+#jingdianxiangxi{
+	width: 95%;
+	height: auto;
+	background-color: #EDEDED;
+	margin-top: 20px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: #666666;
+	padding: 5px 10px;
+}
+#jiangexian{
+	width: 1px;
+	height: 300px;
+	background-color: #c4c3c3;
+	display: inline-block;
+}
+/**-----------行程规划---------------*/
+#guihuaform{
+	width: 200px;
+	height: 158px;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+
+#guihuaform div{
+	margin-top: 20px;
+}
+#guihuaform img{
+	width:208px ;
+	height: 147px;
+}

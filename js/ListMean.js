@@ -19,7 +19,20 @@
 			display:"block",
 			margin:"0 auto",
 			padding:"0",
+			textAlign:"center",
 		}
+		
+		var  licss = {
+			display:"inline-block",
+			border:"1px solid #e6e6e6",
+			listsytle:"none",
+			height:"28px",
+			lineheight:"30px",
+			verticalAlign:"top",
+			marginright:"5px",
+		}
+		
+		
 		
 		
 		this.createDom = function(){
@@ -34,15 +47,56 @@
 		function createListMean(){
 			var ul = document.createElement("ul");
 			config.dom.appendChild(ul);
+			ul.className = "mulitxtul"
 			setulcss(ul);
 			//geiul设置完毕css
 			//接下来需要创建li 并给里设置css样式
+			createli(ul);
 			ul.onclick = function(){
-				console.log("这里是我测试事件用的")
-				win.test(1);
+				//console.log("这里是我测试事件用的")
+			//	win.test(1);
 			}
 		}
 		
+		//创建li标签
+		function createli(ul){
+			var showPageNum = config.totpage;
+			if(showPageNum>=10){
+				showPageNum = 10;
+			}
+			
+			createOneLi(ul,"上一页");
+			for(var i = 0;i<showPageNum;i++){
+				createOneLi(ul,i+1)
+			}
+			createOneLi(ul,"下一页");
+		}
+		
+		//创建单个li
+		function createOneLi(ul,txt){
+			var li = document.createElement("li");
+			ul.appendChild(li);
+			li.innerHTML = "&nbsp&nbsp"+txt+"&nbsp&nbsp";
+			
+		//	setlicss(li);
+			li.setAttribute("class","mulitxt");
+			
+			li.onclick = function(){
+				win.gotoPage(txt)
+			}
+			
+			
+		}
+		
+		function setlicss(li){
+			li.style.display = licss.display;
+			li.style.border = licss.border;
+			li.style.height = licss.height;
+			li.style.lineHeight = licss.lineheight;
+			li.style.verticalAlign = licss.verticalAlign;
+			li.style.marginRight = licss.marginright;
+		}
+
 		
 		function setulcss(ul){
 			ul.style.width = ulcss.width;
@@ -50,6 +104,7 @@
 			ul.style.display = ulcss.display;
 			ul.style.margin = ulcss.margin;
 			ul.style.padding = ulcss.padding;
+			ul.style.textAlign = ulcss.textAlign;
 		}
 		
 		
